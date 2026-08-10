@@ -1,2 +1,6 @@
-# cloud-native-soc-monitoring-lab
-A beginner-friendly cloud-based SOC monitoring lab using Azure, Windows/Linux VMs, Log Analytics, and Microsoft Sentinel.
+# Cloud-Native Cybersecurity Monitoring Lab
+This project documents my beginner-friendly cybersecurity home lab designed to simulate a small Security Operations Center (SOC) environment.
+
+## Building a Mini SOC Environment Using Azure, Microsoft Sentinel, and Security Analytics
+
+
